@@ -1,0 +1,7 @@
+{
+  "name": "RAPZ",
+  "description": "RAPZ - Quem entrega, Conecta! Uma plataforma PWA que conecta estabelecimentos comerciais a motoboys de forma rápida e justa.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
